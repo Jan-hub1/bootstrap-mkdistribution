@@ -1,0 +1,5 @@
+
+.icon-statusnet:before { content: '\e800'; } /* '' */
+.icon-vcard:before { content: '\e801'; } /* '' */
+.icon-basket:before { content: '\e802'; } /* '' */
+.icon-lock-open-alt:before { content: '\f075'; } /* '' */
