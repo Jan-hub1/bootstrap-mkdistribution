@@ -4,4 +4,8 @@
 .icon-basket:before { content: '\e802'; } /* '' */
 .icon-basket-alt:before { content: '\e803'; } /* '' */
 .icon-basket-1:before { content: '\e804'; } /* '' */
+.icon-globe:before { content: '\e805'; } /* '' */
+.icon-phone:before { content: '\e806'; } /* '' */
+.icon-mail:before { content: '\e807'; } /* '' */
+.icon-mobile:before { content: '\e808'; } /* '' */
 .icon-lock-open-alt:before { content: '\f075'; } /* '' */
