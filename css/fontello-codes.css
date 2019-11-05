@@ -2,4 +2,6 @@
 .icon-statusnet:before { content: '\e800'; } /* '' */
 .icon-vcard:before { content: '\e801'; } /* '' */
 .icon-basket:before { content: '\e802'; } /* '' */
+.icon-basket-alt:before { content: '\e803'; } /* '' */
+.icon-basket-1:before { content: '\e804'; } /* '' */
 .icon-lock-open-alt:before { content: '\f075'; } /* '' */

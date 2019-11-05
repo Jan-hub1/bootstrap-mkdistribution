@@ -29,6 +29,18 @@
       "css": "lock-open-alt",
       "code": 61557,
       "src": "mfglabs"
+    },
+    {
+      "uid": "s51at1xi1fkaomxvp6dqaax5jmyhtn4h",
+      "css": "basket-alt",
+      "code": 59395,
+      "src": "modernpics"
+    },
+    {
+      "uid": "e0d15ef5945000f5f264acc35494002f",
+      "css": "basket-1",
+      "code": 59396,
+      "src": "typicons"
     }
   ]
 }
