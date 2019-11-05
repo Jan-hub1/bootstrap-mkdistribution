@@ -1,22 +1,29 @@
-body
-{
+body {
 	color: black;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     /* background-image: url(img/bg.jpg); */
     background-image: linear-gradient(to bottom right, #ededed, grey);
 }
-h1
-{
+h1 {
 	font-size: 18px;
 	font-weight: 700;
     color: black;
     text-transform: uppercase;
     padding: 5px 0px 10px 0px;
-    
 }
 h4 {
     font-size: 20px;
+}
+a {
+    color: #d20e13;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:link:hover {
+    color: #d20e13;
 }
 
 .header1 {
@@ -91,4 +98,10 @@ h4 {
 }
 .stay-inline {
     float: left !important;
+}
+.table-city-style {
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 20px;
+
 }
